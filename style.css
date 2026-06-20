@@ -21,7 +21,7 @@ background-size: cover;
 
 .hero{
 height:100vh;
-background:url("images/Fav.jpg") center/cover;
+background:url("Image/Fav.jpg") center/cover;
 display:flex;
 justify-content:center;
 align-items:center;
